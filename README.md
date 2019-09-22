@@ -1,2 +1,2 @@
-# CV
-CV link!
+# Writings
+Writings link!
